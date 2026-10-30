@@ -10,3 +10,10 @@ seguir estudiando
 comprar mi moto
 poder viajar
 comprar mi primer play
+
+### cosas que quiero mas adelante 
+
+ser programador
+a ver viajado mucho
+tener libertad financiera 
+tener carros 
