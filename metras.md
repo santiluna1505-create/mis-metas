@@ -7,3 +7,4 @@ viajar al mar
 ## lista de metas para el otro año
 
 seguir estudiando 
+comprar mi moto
