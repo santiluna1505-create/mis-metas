@@ -22,4 +22,6 @@ tener carros
 ### Nuevas metas
 
 ir a japon con mi familia
-tener mi carro
+tener mi carro 
+
+----- fn
