@@ -17,3 +17,8 @@ ser programador
 a ver viajado mucho
 tener libertad financiera 
 tener carros 
+
+
+### Nuevas metas
+
+ir a japon con mi familia
